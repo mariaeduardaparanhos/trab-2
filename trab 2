@@ -1,0 +1,25 @@
+Maria Eduarda Paranhos
+
+1 – Encontre referências e comente:
+
+ a) A relação entre a LGPD e os Data Centers no Brasil.
+
+A relação entre a LGPD e os data centers no Brasil é significativa, pois os data centers desempenham um papel crucial no armazenamento e processamento de dados pessoais, que são protegidos pela LGPD. Os data centers são usados para armazenar grandes quantidades de dados, incluindo informações pessoais de usuários e clientes. A LGPD estabelece requisitos específicos para o armazenamento e processamento desses dados, garantindo sua segurança e privacidade. Ademais, os data centers devem implementar medidas de segurança da informação adequadas para proteger os dados pessoais conforme exigido pela LGPD. 
+
+ b)Formatos de arquivos de dados proprietários e abertos 
+
+Os formatos de arquivos de dados podem ser proprietários ou abertos, dependendo das restrições de acesso e das políticas de licenciamento associadas a eles, a relação entre os dois se consiste em os formatos de arquivo proprietários são desenvolvidos e controlados por uma entidade específica, como uma empresa. Eles geralmente têm restrições sobre como podem ser usados, acessados e modificados. Exemplos de formatos de arquivo de dados proprietários incluem o formato .docx do Microsoft Word, o formato .psd do Adobe Photoshop e o formato .xls do Microsoft Excel. já os formatos de arquivo de dados abertos são desenvolvidos e disponibilizados para o público em geral sem restrições significativas. Eles geralmente têm especificações técnicas documentadas e podem ser acessados e modificados por qualquer pessoa. 
+
+b.1) forneça exemplos de formatos:
+
+Exemplos de formatos de arquivo de dados abertos:
+ incluem o formato .csv (valores separados por vírgula), o formato .json (JavaScript Object Notation) e o formato .xml (Extensible Markup Language).
+
+Exemplos de formatos de arquivo de dados proprietários:
+ incluem o formato .docx do Microsoft Word, o formato .psd do Adobe Photoshop e o formato .xls do Microsoft Excel.
+
+b.2 discuta as implicações relacionadas a dados públicos
+
+Dados públicos têm implicações significativas em diversos aspectos da sociedade, especialmente quando se trata de transparência, responsabilidade governamental, inovação e participação cívica, mas é fundamental abordar questões relacionadas à privacidade, segurança e equidade para garantir que esses benefícios sejam alcançados de forma responsável e sustentável.
+
+ 2 – Inclua seus comentários no arquivo de texto NO github
