@@ -1,0 +1,32 @@
+Maria Eduarda Paranhos 
+
+Trabalho prog 4 
+
+Linguagem utilizada: Python 
+
+
+A)	Estrutura de repetição: 
+
+# Exemplo de um loop for para imprimir os números de 1 a 5
+for i in range(1, 6):
+    print(i)
+
+
+
+
+B)	Exemplo de estrutura de decisão: 
+
+# Exemplo de uma estrutura de decisão para verificar se um número é positivo, negativo ou zero
+num = float(input("Digite um número: "))
+
+if num > 0:
+    print("O número é positivo.")
+elif num == 0:
+    print("O número é zero.")
+else:
+    print("O número é negativo.")
+
+ 
+
+
+
